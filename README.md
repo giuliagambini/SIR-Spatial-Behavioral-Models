@@ -51,4 +51,4 @@ It can be proven numerically that spatial distancing plays a key role in extingu
 ## Author
 **Giulia Gambini** *University of Trento* <br>
 Email: giulia.gambini@studenti.unitn.it <br>
-LinkedIn: [Giulia Gambini](https://www.linkedin.com/in/giulia-gambini-778644299)
+LinkedIn: [Giulia Gambini](www.linkedin.com/in/giulia-gambini-0578b1198)
