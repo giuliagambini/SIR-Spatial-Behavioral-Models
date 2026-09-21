@@ -1,8 +1,8 @@
 # SIR Spatial Behavioral Models
 
-![Language MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg) ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Language MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg)
 
-## 📌 Project Overview
+## Project Overview
 
 This repository contains the code, theoretical study, and presentation for a reaction-diffusion SIR model exploring how human behavioral responses—specifically social and spatial distancing—can suppress Turing and Turing-Hopf spatio-temporal patterning in epidemics.
 
@@ -11,7 +11,7 @@ The code reproduces the numerical results presented in the paper:
 
 The study investigates how populations actively adapt their habits in response to perceived epidemic threats, departing from the classical modeling approach that treats humans as passive actors and adding new behavioural terms.
 
-## 📁 Repository Structure
+## Repository Structure
 
 * `/src` : MATLAB scripts for PDE numerical solutions, stability analysis, and plot generation.
 * `/docs` : Project presentation slides and reference materials.
@@ -26,7 +26,7 @@ $$\partial_t I = D_I \Delta I + \Psi(S,I) - (\mu + \nu)I$$
 
 The behavioral incidence rate is defined as $\Psi(S,I) = \phi(I)C(S,I)$, where $\phi(I)$ represents the reduction in social contacts as the local infection prevalence increases. Different forms of the various terms can be assumed.
 
-## 📊 Key Findings Simulated
+## Key Findings Simulated
 
 For the simulations, the so-called Sun model was used as a baseline, where initially $\phi(I)=1$, $C(S,I)=\beta S I^2$, and $\Psi(S,I)=\beta S I^2$ to establish a comparison scenario.    
 
@@ -42,14 +42,17 @@ But what happens if the instability of the Endemic Equilibrium arises through a 
 
 It can be proven numerically that spatial distancing plays a key role in extinguishing unpredictable epidemic waves and controlling spatio-temporal chaos.
 
-## 🚀 How to Run the Code
+## How to Run the Code
 
 1. Clone this repository:
 ```bash
 git clone [https://github.com/giuliagambini/SIR-Spatial-Behavioral-Models.git](https://github.com/giuliagambini/SIR-Spatial-Behavioral-Models.git)
-2. Open MATLAB and set the /src folder as your working directory.
+```
+
+2. Open MATLAB and set the `/src` folder as your working directory.
 3. Run the main scripts to generate the spatial pattern simulations.
 
-👤 Author
-Giulia Gambini University of Trento ✉️ Email: giulia.gambini@studenti.unitn.it
-🔗 LinkedIn: Giulia Gambini
+## Author
+**Giulia Gambini** *University of Trento* <br>
+Email: giulia.gambini@studenti.unitn.it <br>
+LinkedIn: [Giulia Gambini](https://www.linkedin.com/in/giulia-gambini-778644299)
