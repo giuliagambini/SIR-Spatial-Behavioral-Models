@@ -1,6 +1,6 @@
 # SIR Spatial Behavioral Models
 
-![Language MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg) ![Language MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg)
+![Language MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg) ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Project Overview
 
