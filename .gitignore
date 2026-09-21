@@ -1,0 +1,17 @@
+# File temporanei e di backup di MATLAB
+*.asv
+*.m~
+
+# File compilati
+*.mex*
+*.mexmaci64
+*.mexw64
+*.mexw32
+*.mexa64
+
+# Cartelle di simulazione (se usi Simulink)
+slprj/
+sfprj/
+
+# Se vuoi evitare di caricare file di dati pesanti (opzionale)
+# *.mat
