@@ -47,3 +47,9 @@ It can be proven numerically that spatial distancing plays a key role in extingu
 1. Clone this repository:
 ```bash
 git clone [https://github.com/giuliagambini/SIR-Spatial-Behavioral-Models.git](https://github.com/giuliagambini/SIR-Spatial-Behavioral-Models.git)
+2. Open MATLAB and set the /src folder as your working directory.
+3. Run the main scripts to generate the spatial pattern simulations.
+
+👤 Author
+Giulia Gambini University of Trento ✉️ Email: giulia.gambini@studenti.unitn.it
+🔗 LinkedIn: Giulia Gambini
